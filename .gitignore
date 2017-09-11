@@ -1,0 +1,5 @@
+# do not track the test-stand
+/n98-magerun-1-98-0-broken
+
+# do not track the stop-file
+/.n98-magerun
